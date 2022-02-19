@@ -1,0 +1,49 @@
+h1 {
+    color: red;
+}
+
+img {
+    height: 50px;
+    width: 151.5px;
+    margin-top: -0.5px;
+    margin-left: -1px;
+}
+
+.text1 {
+    box-sizing: border-box;
+    color: white;
+    background-color: blue;
+    width: 100px;
+    margin-bottom: 105px;
+}
+
+span {
+    color: red;
+}
+
+h2 {
+    color: white;
+    background-color: green;
+    padding: 5px;
+}
+
+.H2 {
+    padding: 45px;
+}
+
+.text2 {
+    text-indent: 100px;
+}
+
+input {
+    width: 155px;
+}
+
+ul {
+    margin: 30px 0px;
+}
+
+li {
+    font-size: 30px;
+    border: 1px solid black;
+}
